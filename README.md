@@ -1,3 +1,4 @@
+Michał Safuryn, Bartosz Smolibowski, Wojciech Balcer
 # Drinker
 Web App to have a nice drink
 
